@@ -165,11 +165,11 @@ GameRoom에 JobSerializer를 적용시킬 거임. 일단은 상속 시켜서 사
 
 강의에는 public을 지우고 오류 나는 거 확인하라는 식으로 제대로 된 방법은 안 나왔는데 visual studio community(보라색)을 쓴다면 참조를 확인할 수 있는 방법이 2가지 있다.
 
-1. 함수명 윗쪽에 참조를 눌러서 확인![](C:\Users\USER\AppData\Roaming\marktext\images\2023-06-09-10-25-31-image.png) 
+1. 함수명 윗쪽에 참조를 눌러서 확인<br/>
+   ![](https://cdn.discordapp.com/attachments/859820312686362637/1117821123195846716/2023-06-09-10-25-31-image.png) <br/>
 
-2. shift+F12를 누르고서 하단부에서 확인
-
-![](C:\Users\USER\AppData\Roaming\marktext\images\2023-06-09-10-26-12-image.png)
+2. shift+F12를 누르고서 하단부에서 확인<br/>
+![](https://cdn.discordapp.com/attachments/859820312686362637/1117821217118883952/2023-06-09-10-26-12-image.png)<br/>
 
 </div>
 
